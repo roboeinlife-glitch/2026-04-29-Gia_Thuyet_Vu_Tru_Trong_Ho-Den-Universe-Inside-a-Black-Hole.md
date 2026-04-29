@@ -142,9 +142,7 @@ Cảm ơn DeepSeek đã biến một suy tưởng triết học thành một tá
 
 ## 📸 Hình ảnh minh họa
 
-<img width="1191" height="710" alt="Universe Inside a Black Hole" src="https://github.com/user-attachments/assets/8ba8093d-5d9f-412a-8d99-f7f57fd1c223" />
-
-
+<img width="1191" height="710" alt="Universe Inside a Black Hole" src="https://github.com/user-attachments/assets/8ba8093d-5d9f-412a-8d99-f7f57fd1c223" /> <br><br>
 
 📞 Liên hệ & Đóng góp
 Tác giả: [roboeinlife-glitch](https://github.com/roboeinlife-glitch)
