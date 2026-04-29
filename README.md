@@ -71,7 +71,7 @@ Chuyển động tạo thành "vùng đứng yên biểu kiến"
 
 ---
 
-## 📁 [Cấu trúc code](https://github.com/roboeinlife-glitch/2026-04-29-Gia_Thuyet_Vu_Tru_Trong_Ho-Den-Universe-Inside-a-Black-Hole.md/blob/main/main.cpp)
+## 📁 [Cấu trúc code](https://github.com/roboeinlife-glitch/2026-04-29-Gia_Thuyet_Vu_Tru_Trong_Ho-Den-Universe-Inside-a-Black-Hole/blob/main/main.cpp)
 
 
 > 💡 **Ghi chú**: Dự án được viết gọn trong một file duy nhất để dễ dàng biên dịch và chia sẻ.
@@ -147,7 +147,7 @@ Cảm ơn DeepSeek đã biến một suy tưởng triết học thành một tá
 📞 Liên hệ & Đóng góp
 Tác giả: [roboeinlife-glitch](https://github.com/roboeinlife-glitch)
 
-Dự án gốc: [Vu Tru Trong Ho Den](https://github.com/roboeinlife-glitch/2026-04-29-Gia_Thuyet_Vu_Tru_Trong_Ho-Den-Universe-Inside-a-Black-Hole.md)
+Dự án gốc: [Vu Tru Trong Ho Den](https://github.com/roboeinlife-glitch/2026-04-29-Gia_Thuyet_Vu_Tru_Trong_Ho-Den-Universe-Inside-a-Black-Hole)
 
 Blog cá nhân: [Blog Của Tôi](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/)
 
